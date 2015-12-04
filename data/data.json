@@ -52,7 +52,7 @@
 			"alternatives": {
 				"alt1": "He could'nt stay sharp",
 				"alt2": "He didn't like Java",
-				"alt3": "He was tired of Visual Studio",
+				"alt3": "He was tired of Visual Studio"
 			},
 			"answer" : "alt2"
 		}
