@@ -2,24 +2,24 @@
 	"questions": [
 		{
 			"id" : 1,
-			"question": "What is 1+1?",
-			"answer" : "2"
+			"question": "Who let the SPIIKs out?",
+			"answer" : "Mats"
 		},
 		{
 			"id" : 21,
-			"question": "What is 2 + 8?",
+			"question": "What room is the best at Kalmar Nykckel",
 			"alternatives": {
-				"alt1": 2,
-				"alt2": 8,
-				"alt3": 10,
-				"alt4": 28
+				"alt1": "NY109",
+				"alt2": "NY110",
+				"alt3": "NY112",
+				"alt4": "NY113"
 			},
 			"answer" : "alt3"
 		},
 		{
 			"id" : 321,
-			"question": "Which year did javascript first appeared?",
-			"answer" : "1995"
+			"question": "Ping?",
+			"answer" : "Pong"
 		},
 		{
 			"id" : 6,
@@ -38,24 +38,23 @@
 		},
 		{
 			"id" : 32456,
-			"question": "What is the result of: Array(16).join('lol' - 2) + ' Batman!';",
+			"question": "Why did the developer go broke?",
 			"alternatives": {
-				"alt1": "lol",
-				"alt2": "Error",
-				"alt3": "NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN Batman!"
+				"alt1": "He used up all his cache",
+				"alt2": "He didn't, he's making shitload of money",
+				"alt3": "He hired an expensive designer"
 			},
-			"answer" : "alt2"
+			"answer" : "alt1"
 		},
 		{
 			"id" : 326,
-			"question": "Which Swedish bird likes javascript in the browser?",
+			"question": "Why did the C# developer fall asleep?",
 			"alternatives": {
-				"alt1": "Måsvingen",
-				"alt2": "Hakparamesen",
-				"alt3": "DOMherren",
-				"alt4": "Kokokolongöken"
+				"alt1": "He could'nt stay sharp",
+				"alt2": "He didn't like Java",
+				"alt3": "He was tired of Visual Studio",
 			},
-			"answer" : "alt3"
+			"answer" : "alt2"
 		}
 	]
 }
