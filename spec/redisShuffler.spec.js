@@ -83,7 +83,7 @@ describe ("REDISSHUFFLER - Testing getting the data (no cache)", function() {
 	// conect to the redis server
 	var redis = require("redis");
 	var client = redis.createClient(6379, "127.0.0.1");
-	var HNAME = "questions";
+	var HNAME = "music-questions";
 	var r = require('../lib/redisShuffler.js');
 	var data;
 	client.del(HNAME);

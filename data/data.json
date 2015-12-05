@@ -2,63 +2,65 @@
 	"questions": [
 		{
 			"id" : 1,
-			"question": "Who let the SPIIKs out?",
-			"answer" : "Mats"
+			"question": "Who, in 1995, made the song 'blå jeans'?",
+			"answer" : "Kent"
 		},
 		{
-			"id" : 21,
-			"question": "What room is the best at Kalmar Nykckel",
+			"id" : 2,
+			"question": "What year did Loreen win Eurovision Song Contest with the song 'Euphoria'?",
 			"alternatives": {
-				"alt1": "NY109",
-				"alt2": "NY110",
-				"alt3": "NY112",
-				"alt4": "NY113",
-				"alt5": "Cafeterian",
-				"alt6": "NY123",
-				"alt7": "NY122",
-				"alt8": "NY324"
+				"alt1": "2011",
+				"alt2": "2012",
+				"alt3": "2013",
+				"alt4": "2010"
+			},
+			"answer" : "alt2"
+		},
+		{
+			"id" : 3,
+			"question": "What band made the song 'Lithium'?",
+			"answer" : "Nirvana"
+		},
+		{
+			"id" : 4,
+			"question": "In what year did Spotify get released?",
+			"alternatives": {
+				"alt1": "2006",
+				"alt2": "2007",
+				"alt3": "2008",
+			  	"alt4": "2009"
 			},
 			"answer" : "alt3"
 		},
 		{
-			"id" : 321,
-			"question": "Ping?",
-			"answer" : "Pong"
+			"id" : 5,
+			"question": "Apple released a 'Spotify killer'. What's it called?",
+			"answer" : "Apple Music"
 		},
 		{
 			"id" : 6,
-			"question": "How do you comfort a JavaScript bug?",
+			"question": "What's the name of the singer in Queen?",
 			"alternatives": {
-				"alt1": "You make another!",
-				"alt2": "You console it!",
-				"alt3": "You don´t!"
+				"alt1": "Fred Monky",
+				"alt2": "Freddie Mercury",
+				"alt3": "Fredrick Medina"
 			},
 			"answer" : "alt2"
 		},
 		{
-			"id" : 32,
-			"question": "On which javascript engine does node.js run?",
-			"answer" : "V8"
-		},
-		{
-			"id" : 32456,
-			"question": "Why did the developer go broke?",
+			"id" : 7,
+			"question": "Who had the big hit 'Uncover' in 2013?",
 			"alternatives": {
-				"alt1": "He used up all his cache",
-				"alt2": "He didn't, he's making shitload of money",
-				"alt3": "He hired an expensive designer"
+				"alt1": "Zara Larsson",
+				"alt2": "Tove Styrke",
+				"alt3": "Agnes"
 			},
 			"answer" : "alt1"
 		},
-		{
-			"id" : 326,
-			"question": "Why did the C# developer fall asleep?",
-			"alternatives": {
-				"alt1": "He could'nt stay sharp",
-				"alt2": "He didn't like Java",
-				"alt3": "He was tired of Visual Studio"
-			},
-			"answer" : "alt2"
-		}
+	  {
+		"id" : 8,
+		"question": "What swedish star made the song 'Waiting for love'?",
+		"answer" : "Avicii"
+	  }
 	]
 }
