@@ -2,72 +2,16 @@
 	"questions": [
 		{
 			"id" : 1,
-			"question": "What color did the gun have in 'The man with the golden gun'?",
-			"alternatives": {
-				"alt1": "Golden",
-				"alt2": "Metal",
-				"alt3": "Elemental",
-				"alt4": "Yellow"
-			},
-			"answer" : "alt3"
+			"question": "Ge mig en etta",
+			"answer" : "1"
 		},
 		{
 			"id" : 2,
-			"question": "What room is the best at Kalmar Nykckel",
+			"question": "Vad är rätt?",
 			"alternatives": {
-				"alt1": "NY109",
-				"alt2": "NY110",
-				"alt3": "NY112",
-				"alt4": "NY113"
-			},
-			"answer" : "alt3"
-		},
-		{
-			"id" : 3,
-			"question": "Ping?",
-			"answer" : "Pong"
-		},
-		{
-			"id" : 4,
-			"question": "Quack!",
-			"alternatives": {
-				"alt1": "Quack!",
-				"alt2": "Quack!",
-				"alt3": "Quack!",
-				"alt4": "Quack!",
-				"alt5": "Quack!"
-			},
-			"answer" : "alt4"
-		},
-		{
-			"id" : 5,
-			"question": "Why did the developer go broke?",
-			"alternatives": {
-				"alt1": "He used up all his cache",
-				"alt2": "He didn't, he's making shitload of money",
-				"alt3": "He hired an expensive designer"
+				"alt1": "denna"
 			},
 			"answer" : "alt1"
-		},
-		{
-			"id" : 6,
-			"question": "Why did the C# developer fall asleep?",
-			"alternatives": {
-				"alt1": "He could'nt stay sharp",
-				"alt2": "He didn't like Java",
-				"alt3": "He was tired of Visual Studio"
-			},
-			"answer" : "alt2"
-		},
-		{
-			"id" : 7,
-			"question": "Dank meme?",
-			"alternatives": {
-				"alt1": "Yes!",
-				"alt2": "No! :(",
-				"alt3": "Slayer!"
-			},
-			"answer" : "alt3"
 		}
 	]
 }
