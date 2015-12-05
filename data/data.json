@@ -2,65 +2,79 @@
 	"questions": [
 		{
 			"id" : 1,
-			"question": "Who, in 1995, made the song 'blå jeans'?",
-			"answer" : "Kent"
+			"question": "What year did 'Lion King' first premiere?",
+			"answer" : "1994"
 		},
 		{
 			"id" : 2,
-			"question": "What year did Loreen win Eurovision Song Contest with the song 'Euphoria'?",
+			"question": "Who was the first 'James Bond'?'",
 			"alternatives": {
-				"alt1": "2011",
-				"alt2": "2012",
-				"alt3": "2013",
-				"alt4": "2010"
+				"alt1": "Roger Moore",
+				"alt2": "Sean Connery",
+				"alt3": "Pierce Brosnan",
+				"alt4": "Timothy Dalton"
 			},
 			"answer" : "alt2"
 		},
 		{
 			"id" : 3,
-			"question": "What band made the song 'Lithium'?",
-			"answer" : "Nirvana"
-		},
-		{
-			"id" : 4,
-			"question": "In what year did Spotify get released?",
+			"question": "What is the name of the fish that suffers from memory loss in 'Finding Nemo'?",
 			"alternatives": {
-				"alt1": "2006",
-				"alt2": "2007",
-				"alt3": "2008",
-			  	"alt4": "2009"
+				"alt1": "Nemo",
+				"alt2": "Marwin",
+				"alt3": "Dory",
+				"alt4": "Doris"
 			},
 			"answer" : "alt3"
 		},
 		{
-			"id" : 5,
-			"question": "Apple released a 'Spotify killer'. What's it called?",
-			"answer" : "Apple Music"
-		},
-		{
-			"id" : 6,
-			"question": "What's the name of the singer in Queen?",
+			"id" : 4,
+			"question": "What movie was first with the same plot as 'Avatar'?",
 			"alternatives": {
-				"alt1": "Fred Monky",
-				"alt2": "Freddie Mercury",
-				"alt3": "Fredrick Medina"
-			},
-			"answer" : "alt2"
-		},
-		{
-			"id" : 7,
-			"question": "Who had the big hit 'Uncover' in 2013?",
-			"alternatives": {
-				"alt1": "Zara Larsson",
-				"alt2": "Tove Styrke",
-				"alt3": "Agnes"
+				"alt1": "Poccahontas",
+				"alt2": "Mulan",
+				"alt3": "Roccamontas",
+			  	"alt4": "Tarzan"
 			},
 			"answer" : "alt1"
 		},
+		{
+			"id" : 5,
+			"question": "What's the name of the snowman in 'Frozen' from 2013?",
+			"alternatives": {
+				"alt1": "Sven",
+				"alt2": "Roland",
+				"alt3": "Olaf",
+				"alt4": "Hans"
+			},
+			"answer" : "alt3"
+		},
+		{
+			"id" : 6,
+			"question": "Who is Lukes father?",
+			"answer" : "Darth Vader"
+		},
+		{
+			"id" : 7,
+			"question": "Who made the voice acting for the Genie in 'Aladdin' from 1992?",
+			"alternatives": {
+				"alt1": "Robbie Williams",
+				"alt2": "Rob Stewart",
+				"alt3": "Robin Williams",
+				"alt4": "Robin Washington"
+			},
+			"answer" : "alt3"
+		},
 	  {
 		"id" : 8,
-		"question": "What swedish star made the song 'Waiting for love'?",
-		"answer" : "Avicii"
+		"question": "What is the name of the native humanoids in 'Avatar' from 2009?",
+		  "alternatives": {
+			  "alt1": "No'vis",
+			  "alt2": "Nah'vo",
+			  "alt3": "Na'lo",
+			  "alt4": "Na'vi"
+	  	},
+		"answer" : "alt4"
 	  }
 	]
 }
